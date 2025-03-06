@@ -38,10 +38,3 @@ This model is made available for game development use. Feel free to integrate it
 
 If you plan to use this model in a game or a project, please credit the creator when possible. 
 
-## Folder Structure
-The folder structure of the repository is as follows:
-
-Clg Hostel
--> room.blend
--> room.mtl
--> room.obj
